@@ -15,6 +15,7 @@ I specialize in embedded systems, microcontroller programming, autonomous roboti
 
 ### Featured Projects
 **[Automatic Rover](https://github.com/itvikash/Automatic-Rover-Obstacle-Detection-Light-Sensing-Robot)** — Autonomous four-wheel drive rover with obstacle detection, light sensing, and manual RC control.
+
 **[Smart Radar Velocity Detection](https://github.com/itvikash/Smart-Radar-Velocity-Detection)** — Ultrasonic system for high-velocity measurement and target detection.
 
 ---
