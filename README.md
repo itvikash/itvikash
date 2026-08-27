@@ -20,5 +20,6 @@ I specialize in embedded systems, microcontroller programming, autonomous roboti
 ---
 
 ### Connect With Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/the-vikashkumar)
 
